@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.78904ed0.css",
-    "main.js": "/static/js/main.36ca43c2.js",
+    "main.css": "/static/css/main.eba6da67.css",
+    "main.js": "/static/js/main.11d44880.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/TrialGIF.gif": "/static/media/TrialGIF.eec9503843992da48340.gif",
     "static/media/copyright.jpg": "/static/media/copyright.0b480aaa11e202b0d489.jpg",
@@ -9,14 +9,14 @@
     "static/media/darkmode.jpg": "/static/media/darkmode.891fd8a010503e7935c1.jpg",
     "static/media/email.jpg": "/static/media/email.48b2c4624ab01a5c3ae1.jpg",
     "static/media/Filter Icon.svg": "/static/media/Filter Icon.44821636eed3529616d6341fd97a657e.svg",
-    "static/media/SJ LOGO WhiteBG 3rd 12 2023.svg": "/static/media/SJ LOGO WhiteBG 3rd 12 2023.a44c7344b7090290386d1e6008e86249.svg",
+    "static/media/logoSJ 16th 12 2023.svg": "/static/media/logoSJ 16th 12 2023.994e56fdce84b677d5e87481d13b4a01.svg",
     "index.html": "/index.html",
-    "main.78904ed0.css.map": "/static/css/main.78904ed0.css.map",
-    "main.36ca43c2.js.map": "/static/js/main.36ca43c2.js.map",
+    "main.eba6da67.css.map": "/static/css/main.eba6da67.css.map",
+    "main.11d44880.js.map": "/static/js/main.11d44880.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78904ed0.css",
-    "static/js/main.36ca43c2.js"
+    "static/css/main.eba6da67.css",
+    "static/js/main.11d44880.js"
   ]
 }
