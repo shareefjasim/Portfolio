@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.0b99c115.css",
-    "main.js": "./static/js/main.0dbea724.js",
+    "main.css": "./static/css/main.36b06958.css",
+    "main.js": "./static/js/main.d3b3170d.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
     "static/media/Home.gif": "./static/media/Home.369ff60b6ef45400cc22.gif",
     "static/media/copyright.jpg": "./static/media/copyright.0b480aaa11e202b0d489.jpg",
+    "static/media/Roboto-Light.woff2": "./static/media/Roboto-Light.3b76b328d76f25eb2a93.woff2",
+    "static/media/Roboto-Thin.woff2": "./static/media/Roboto-Thin.b0d1862ad9b7013eb51e.woff2",
+    "static/media/Montserrat-Light.woff2": "./static/media/Montserrat-Light.dbb362ce20b973daf4e3.woff2",
     "static/media/github.jpg": "./static/media/github.20a353b65e134bc6ec9c.jpg",
     "static/media/darkmode.jpg": "./static/media/darkmode.891fd8a010503e7935c1.jpg",
+    "static/media/Orbitron-Medium.woff2": "./static/media/Orbitron-Medium.5c7fe78f05f4c0bf9873.woff2",
     "static/media/email.jpg": "./static/media/email.48b2c4624ab01a5c3ae1.jpg",
     "static/media/Filter Icon.svg": "./static/media/Filter Icon.44821636eed3529616d6341fd97a657e.svg",
     "static/media/logoSJ 16th 12 2023.svg": "./static/media/logoSJ 16th 12 2023.994e56fdce84b677d5e87481d13b4a01.svg",
     "index.html": "./index.html",
-    "main.0b99c115.css.map": "./static/css/main.0b99c115.css.map",
-    "main.0dbea724.js.map": "./static/js/main.0dbea724.js.map",
+    "main.36b06958.css.map": "./static/css/main.36b06958.css.map",
+    "main.d3b3170d.js.map": "./static/js/main.d3b3170d.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b99c115.css",
-    "static/js/main.0dbea724.js"
+    "static/css/main.36b06958.css",
+    "static/js/main.d3b3170d.js"
   ]
 }
