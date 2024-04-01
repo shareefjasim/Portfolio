@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.36b06958.css",
-    "main.js": "./static/js/main.d3b3170d.js",
+    "main.css": "./static/css/main.cd35dee4.css",
+    "main.js": "./static/js/main.945b3257.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
-    "static/media/Home.gif": "./static/media/Home.369ff60b6ef45400cc22.gif",
+    "static/media/SILT Slow Animation Black.mp4": "./static/media/SILT Slow Animation Black.b4d32ad847281e496505.mp4",
+    "static/media/SILT Slow Animation White.mp4": "./static/media/SILT Slow Animation White.338cec9dbb8d708205ad.mp4",
     "static/media/copyright.jpg": "./static/media/copyright.0b480aaa11e202b0d489.jpg",
     "static/media/Roboto-Light.woff2": "./static/media/Roboto-Light.3b76b328d76f25eb2a93.woff2",
     "static/media/Roboto-Thin.woff2": "./static/media/Roboto-Thin.b0d1862ad9b7013eb51e.woff2",
@@ -13,14 +14,14 @@
     "static/media/Orbitron-Medium.woff2": "./static/media/Orbitron-Medium.5c7fe78f05f4c0bf9873.woff2",
     "static/media/email.jpg": "./static/media/email.48b2c4624ab01a5c3ae1.jpg",
     "static/media/Filter Icon.svg": "./static/media/Filter Icon.44821636eed3529616d6341fd97a657e.svg",
-    "static/media/logoSJ 16th 12 2023.svg": "./static/media/logoSJ 16th 12 2023.994e56fdce84b677d5e87481d13b4a01.svg",
+    "static/media/logoSJ 24th 3 2024.svg": "./static/media/logoSJ 24th 3 2024.9a90443f08baf2b0575acd53537e7d2d.svg",
     "index.html": "./index.html",
-    "main.36b06958.css.map": "./static/css/main.36b06958.css.map",
-    "main.d3b3170d.js.map": "./static/js/main.d3b3170d.js.map",
+    "main.cd35dee4.css.map": "./static/css/main.cd35dee4.css.map",
+    "main.945b3257.js.map": "./static/js/main.945b3257.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36b06958.css",
-    "static/js/main.d3b3170d.js"
+    "static/css/main.cd35dee4.css",
+    "static/js/main.945b3257.js"
   ]
 }
