@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.32310bad.css",
+    "main.js": "./static/js/main.3d0ef1dc.js",
+    "static/js/453.1407b060.chunk.js": "./static/js/453.1407b060.chunk.js",
+    "static/media/copyright.jpg": "./static/media/copyright.0b480aaa11e202b0d489.jpg",
+    "static/media/Roboto-Light.woff2": "./static/media/Roboto-Light.3b76b328d76f25eb2a93.woff2",
+    "static/media/Roboto-Thin.woff2": "./static/media/Roboto-Thin.b0d1862ad9b7013eb51e.woff2",
+    "static/media/Montserrat-Light.woff2": "./static/media/Montserrat-Light.dbb362ce20b973daf4e3.woff2",
+    "static/media/github.jpg": "./static/media/github.20a353b65e134bc6ec9c.jpg",
+    "static/media/darkmode.jpg": "./static/media/darkmode.891fd8a010503e7935c1.jpg",
+    "static/media/Orbitron-Medium.woff2": "./static/media/Orbitron-Medium.5c7fe78f05f4c0bf9873.woff2",
+    "static/media/email.jpg": "./static/media/email.48b2c4624ab01a5c3ae1.jpg",
+    "static/media/arrow-up-340-svgrepo-com.svg": "./static/media/arrow-up-340-svgrepo-com.13d1548c5e073634ef0606ae351bc516.svg",
+    "static/media/logoSJ 24th 3 2024.svg": "./static/media/logoSJ 24th 3 2024.23285d5bf8110291b7da615cc9d1e598.svg",
+    "index.html": "./index.html",
+    "main.32310bad.css.map": "./static/css/main.32310bad.css.map",
+    "main.3d0ef1dc.js.map": "./static/js/main.3d0ef1dc.js.map",
+    "453.1407b060.chunk.js.map": "./static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32310bad.css",
+    "static/js/main.3d0ef1dc.js"
+  ]
+}
