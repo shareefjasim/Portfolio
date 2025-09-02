@@ -1,0 +1,62 @@
+Location: Frankfurt, Germany
+Developed for: Rhenso 
+Role: Tools and Components Ideation and Development
+Software: Grasshopper, C#, APE
+
+Purpose: 
+APE Tools are a set of different tools designed using the APE plugin, grasshopper and C#. the aim of these tools is to showcase a new methodology of semi-autonomous CAD tools to perform specific yet complex tasks. Below are some of the tools that I developed during my work with Rhenso.
+
+Technology report:
+These tools are developed using a combination of a grasshopper definitions and C# scripts.
+
+DELIFTA Parametric Wall System
+
+ 
+
+ 
+
+This tool automates the entire process of designing a DELIFTA facade system developed by Manni Green Tech. It includes all parts on a fabrication level of detail, is fully adaptive and exports a full BOM.
+
+​
+
+Tool's data on Rhenso's site
+
+
+Voxelizer
+
+ 
+
+ 
+
+This powerful tool that turns any shape into an assembly of voxels
+
+​
+
+Tool's data on Rhenso's site
+
+
+Adaptive Wall Shelves
+
+ 
+
+ 
+
+Dynamic grid tool for creating fully parametric wall shelves CNC cut. You can choose between CNC-Milling details and Lasercut details of the connections. It adapts to any shape.
+
+​
+
+Tool's data on Rhenso's site
+
+3D-Exploder
+
+ 
+
+ 
+
+The 3D Exploder tool, developed with Adaptive Parts Environment (APE), provides a detailed visualization of complex 3D models by systematically separating their components. This tool facilitates improved understanding of assembly structures, thereby aiding in the creation of manufacturing drawings or animations. Ideal for a broad range of applications, the 3D Exploder offers an innovative solution for examining intricate designs and structures.
+
+​
+
+Tool's data on Rhenso's site
+
+https://www.youtube.com/watch?v=mSZPmpA2hFQ

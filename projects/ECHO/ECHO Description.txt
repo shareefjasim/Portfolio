@@ -1,0 +1,23 @@
+Course: ARCH401 - Architectural Design Studio
+Location: Sinop,Turkey
+Role: Comprehesive project development
+Softwares: Rhino, Grasshopper, Vray
+
+Design Orientation: 
+Initiated as a statement to raise awareness to sustain both cultural heritage as well as the natural environment of the Turkish town of Sinop, the project is placed adjacent to the remainings of a historical castle wall and its ruins and along the northern wave breaker.
+The location was favored and chosen due to its relation to both targeted evident aspects of the town, the Sinop Castel, and the Black Sea.
+163 Endangered marine species exist in Turkey
+Of which 62 species are from the fish group
+11 Species from the Amphibians group
+The design aims to provide facilities that focus on helping endangered marine animals through three different functions:
+Educational Institute to teach students the practical experience for sustainable marine ecology.
+Rehabilitation center to rescue endangered animals.
+Aquarium to engage the public and raise awareness as well as obtain funds to support the organization.
+
+Technology report:
+Having a form that mimics the collapsing historical castel of Sinop, multiple Parametric algorithms were deployed to solve the project's geometric complexity and generate its required steel structure as well as fenestration and cladding data.
+-Planarity Algorithm: keeps the planarity of all surfaces 
+while randomizing them to create variations of the collapsing castle geometry.
+-Eater Algorithm: detects the intersections between the masses and subtracts from adjacent masses if they enter the territory of the subtractor mass.
+-Envelope Algorithm: detects the openings in the building’s envelop and creates windows, skylights, and fenestration in these openings.
+Additionally, solar radiation analysis was used to adjust the geometry for better solar protection and UDL hours.

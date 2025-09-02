@@ -1,0 +1,19 @@
+Location: Antalya, Turkey
+Role: Comprehesive project development
+Softwares: Revit, Dynamo, Grasshopper, Honeybee Radiant, Galapagos, Twinmotion
+
+Project Scope:
+The underutilized potential of an urban node that could be turned into an attraction viable site where pedestrian circulation is enhanced and the potential of the urban node could be realized into a social function in adjacency to the rainwater canal and the rocky cliff topography.
+The project was initiated to make use of that urban node by forming a public library and youth center to attract citizens for a social interactive environment. as well as responding to the water canal by providing a ramp that crosses over it providing a separate path for pedestrians rather than having their path with the cars’ road.
+
+Technical Report:
+The project was modeled in Revit and Dynamo was used to parametrically model the facade system each portion of which is having a different angle that responds to the form and the circulation around the building, the adaptive louvers system, and their control system were also modeled using Dynamo to produce the fabrication files of the cladding panels.
+Additionally, the adaptive louvers system optimization was conducted within Grasshopper‘s environment, to obtain the best louver angle for each facade portion Galapagos was used to iterate through different combinations of angles and simulate the daylight autonomy DA for each iteration using Honeybee Radient as a simulation engine to achieve an 82% DA for the chosen optimized time an improvement from 44% without adaptive Louvers system.
+
+
+Louver Angles Optimization
+
+​The optimized angles are chosen based on a genetic algorithm optimization process using Galapagos
+
+Comparison of Daylight Autonomy (DA) as a percentage of tiles and Average Illuminance of the simulation grid tiles for Jun 21  12:00 pm
+

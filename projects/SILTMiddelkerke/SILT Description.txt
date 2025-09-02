@@ -1,0 +1,16 @@
+https://www.zja.nl/en/SILT-Middelkerke
+
+Architect: ZJA
+Timber Contractor: HESS Timber
+Developed for: Imagine Computation
+Location: Middelkerke, Belgium
+Role: Geometry optimization and fabrication data production
+Software: Rhino, Grasshopper, C#, Python
+
+Design Orientation: 
+The building has a timber exoskeleton that forms the primary exterior facade appearance of the exposed part of the project. The decision was made to have this be made of only linear and single curved timber elements. the challenge was thus to optimize for these requirements and produce a symmetric and visually consistent exoskeleton.
+
+Technology report:
+The geometry  needed to be optiomized for a very tight tolerances and for reducing unique parts by applying symmetry wherever it is possible. The requirment was that the process would output a series of Cadwork readable geometries that include multiple attribute that the Cadwork API can translate to make the geometries as native as the geometries made in Cadwork itself including all of the assemblies 
+and sub-assemblies heirarchy.
+

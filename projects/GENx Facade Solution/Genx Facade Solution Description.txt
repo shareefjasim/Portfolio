@@ -1,0 +1,13 @@
+Location: NewYork, USA
+Developed for: GenX Design and Technology
+Role: Alorithm designer and developer
+Softwares: Catia(3d Experiance), EKL
+
+
+Project Scope:
+At GENx our goal was to achieve full automation of design processes. The main obstacle toward this goal in the case of facade systems fabrication is the irregular facade areas where the general rules and facade geometries do not apply. This irregularity is usually the result of a design decision due to an aesthetic or functional reason. automating these areas requires a more sophisticated process through which the facade area is analyzed and solved locally while considering the local geometric space and the architectural elements in that space.
+As a response to this need, I developed an algorithm that analyzes and understands the geometrical context of a specific facade panel and generates mullion geometries that fit the context by taking into account different angles and mullion types around the panel that’s being processed.
+
+Technical Report:
+This tool is developed to be used independently, accordingly, I produced two versions of it, the first is what can be used in an automatic facade system’s fabrication document generation, and we applied it in the Four Season Hotel facade project as described in the previous project, the second version is to be used for feasibility testing to check if the concept design’s primary geometries will satisfy the designers’ criteria, both versions have the same working algorithm.
+The algorithm is written using EKL and is composed of two sub algorithms, the first detects the type and angle condition of each mullion and the second takes in the detection output and instantiates the appropriate mullion types and structures their part in an organized manner that can be merged with the entire facade data in the case of applying the first version of the Algorithm

@@ -1,0 +1,15 @@
+Location: Dubai, UAE
+Architect: Studio Libeskind
+Facade Consultant: GenX Design and Technology
+Partners: Suedanur Ozden
+Role: Facade System Digital Fabricator
+Softwares: Catia(3d Experiance), X Generative, EKL
+
+Project Scope:
+GENx is a New York and Istanbul based modern innovation hub committed to take part in Industry 4.0. With partners in London and Sofia, GENx aims to provide BIM integrated project management solutions that are case specified.
+This Project is an automated digital fabrication of the facade system of the Four Seasons Dubai Water Canal Hotel, the aim was to provide an automatic system that would adapt to the design of the architect in case some changes were to be made in later design stages. 
+We started the project with one goal in mind and that is to have a 100% automatic system of solving the facade geometry and producing its fabrication data.
+
+Technical Report:
+The system we designed takes in the basic geometry surfaces provided by the architect and processes it to the LOD 500 and provides organized data of that geometries to be used for fabrication and construction management.
+This process includes two main parts, the first is the creation of fully customizable and adaptive UDFs (User Defined Feature) using Catia for the different facade mullion types as designed by the architect. The second part takes the geometry of each facade and divides it into properly sized panels using X-Generative then categorizes the panels into different categories to be processed for creating the actual mullion geometries that would be delivered to the fabricator.

@@ -1,0 +1,18 @@
+Cowes Week Pavilion
+Location: Isle of Wight, United Kingdom
+Role: Comprehesive project development
+Softwares: Rhino, Grasshopper, KUKA,Kangroo Physics, Vray, Twinmotion
+
+Design Orientation:
+The design provides a social pavilion for the Cowes Week sailing regattas, One of the oldest and largest annual sailing regattas of its kind in the world and an iconic feature of the British sporting calendar. Cowes Week takes place at Solent with 8,000 competitors, from world champion professionals to amateurs, in addition to many more Spectators. For whom, the pavilion design is to provide an open shelter for enjoying the race and other events.
+The site is chosen on the northern shore of the  Isle of Wight for the wide view and easy accessibility. From the site, spectators can see the sailors approaching the end line of the race. 
+The design is inspired by the traditional form of a sail boat and takes its structure and materials as design elements for erecting the pavilion providing a moderate shelter from the environmental conditions of the site.
+
+Less
+Technology report:
+The entire pavilion's geometrical elements are generated using an algorithmic process within Grasshopper. The resulting geometries are then manufactured and assembled using CNC machines and robotic assembly.
+Double-curved timber structure elements are formed using variations of twisting sections to get the final required geometries.
+Tensile support wheels are made of a structural frame and robotically winded carbon fibers to hold the two structural layers together using a KUKA robotic arm.
+Tensile membrane and the custom joints are manufactured using CNC machining methods.
+All of these elements are then shipped and assembled in situ to form the final pavilion.
+

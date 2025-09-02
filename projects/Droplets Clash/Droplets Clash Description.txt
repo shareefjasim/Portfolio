@@ -1,0 +1,12 @@
+4D Droplets Clash
+Course: FA101 - Basic Design Studio
+Location: 3D Water Volume
+Role: Concept development
+Software: Rhino, Grasshopper
+
+Design Orientation: 
+Water droplets form clashing rings of waves that are observed from the 3D world on the 2D water surface. How would a being from the 4D World see droplets clash in the 3D water?
+This question requires imagining how droplets would drop into existence in a 3D water Volume.
+
+Technology report:
+Visualizing the concept in a geometrical form is best achieved by visualizing the disturbance water drops would cause to the 3d water volume once they turn into existence. for that reason, the choice was made to use Grasshopper's magnetic fields simulator to extract the disturbance as 3D waves and capture 3D geometries from these waves.

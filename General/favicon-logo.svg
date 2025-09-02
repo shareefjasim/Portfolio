@@ -1,0 +1,24 @@
+<svg id="favicon-logo" data-name="Favicon Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <defs>
+    <style>
+      .cls-1{fill:#fff;}
+      .cls-2{fill:#231f20;}
+    </style>
+  </defs>
+  <title>Shareef Jasim Favicon Logo</title>
+  
+  <!-- White background with 4:2 ratio (2:1) -->
+  <rect class="cls-1" width="200" height="100"/>
+  
+  <!-- Centered and scaled logo elements from SJ LOGO WhiteBG 3rd 12 2023.svg -->
+  <g transform="translate(32, 16) scale(1.0, 1.0)">
+    <!-- Updated logo elements with correct positioning -->
+    <rect class="cls-2" width="68.03" height="11.34"/>
+    <rect class="cls-2" x="102.05" width="34.02" height="11.34"/>
+    <rect class="cls-2" x="96.38" y="28.35" width="68.03" height="11.34" transform="translate(164.41 -96.38) rotate(90)"/>
+    <rect class="cls-2" y="56.69" width="136.06" height="11.34"/>
+    <rect class="cls-2" y="28.35" width="68.03" height="11.34"/>
+    <rect class="cls-2" y="11.34" width="11.34" height="17.01"/>
+    <rect class="cls-2" x="56.69" y="39.69" width="11.34" height="17.01"/>
+  </g>
+</svg>
